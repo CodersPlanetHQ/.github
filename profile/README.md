@@ -29,8 +29,8 @@ Connect with like-minded devs, join collabs, and contribute to something bigger.
 | Member   | Position  | Discord | GitHub |
 |----------|-----------|---------|--------|
 | ![bre4d77](https://lanyard.cnrad.dev/api/931059762173464597?animated=true&theme=dark&borderRadius=25px&idleMessage=Thick%20Thighs%20Pretty%20eyes) | Developer | [@bre4d77](https://discord.com/users/931059762173464597) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bre4d77&show_icons=true&theme=github_dark)](https://github.com/bre4d77) |
-![mopifyz](https://lanyard.cnrad.dev/api/1208528923273601149?animated=true&theme=dark&borderRadius=25px&idleMessage=Thick%20Thighs%20Pretty%20eyes) | Developer | [@Mopifyz](https://discord.com/users/1208528923273601149) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrivCodez&show_icons=true&theme=github_dark)](https://github.com/TrivCodez) |
-![izzy_6.9](https://lanyard.cnrad.dev/api/1077872684781805569?animated=true&theme=dark&borderRadius=25px&idleMessage=Thick%20Thighs%20Pretty%20eyes) | Developer | [@izzy_6.9](https://discord.com/users/1077872684781805569) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzzyTheBuilder&show_icons=true&theme=github_dark)](https://github.com/IzzyTheBuilder) |
+![mopifyz](https://lanyard.cnrad.dev/api/1208528923273601149?animated=true&theme=dark&borderRadius=25px&idleMessage=Hello!) | Developer | [@Mopifyz](https://discord.com/users/1208528923273601149) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrivCodez&show_icons=true&theme=github_dark)](https://github.com/TrivCodez) |
+![izzy_6.9](https://lanyard.cnrad.dev/api/1077872684781805569?animated=true&theme=dark&borderRadius=25px&idleMessage=Hello!) | Developer | [@izzy_6.9](https://discord.com/users/1077872684781805569) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzzyTheBuilder&show_icons=true&theme=github_dark)](https://github.com/IzzyTheBuilder) |
 
 > Want to be featured here? Join the dev squad on [Discord](https://discord.gg/zZxncdkdWJ) and start contributing!
 
