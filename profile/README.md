@@ -18,21 +18,6 @@ This repository contains a diverse collection of code, including:
 *   **Libraries:** Reusable code libraries to simplify development tasks.
 *   **Examples:** Demonstrations of specific concepts and techniques.
 
-## Contributing
-
-We welcome contributions from everyone! If you're interested in contributing to CodersPlanetHQ, please follow these steps:
-
-1.  **Join our Discord server:**  Connect with the community and discuss your ideas.
-2.  **Fork this repository:** Create your own copy of the repository.
-3.  **Create a new branch:**  Implement your changes in a dedicated branch.
-4.  **Submit a pull request:**  Propose your changes for review.
-
-Please ensure your code adheres to our coding standards and includes appropriate documentation.
-
-## Code of Conduct
-
-CodersPlanet is committed to providing a welcoming and inclusive environment for all. Please review our [Code of Conduct](link-to-code-of-conduct) before participating in the community.
-
 ## License
 
 This repository is licensed under the [MIT License](LICENSE).
