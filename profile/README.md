@@ -1,30 +1,52 @@
-# CodersPlanetHQ - Public Code Repository
+# CodersPlanetHQ Public Codes Repository 
 
-[![Discord](https://img.shields.io/discord/740954940337332285?label=Discord&logo=discord)](https://discord.gg/CodersPlanet)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Discord](https://img.shields.io/discord/1010869461059911681?label=Join%20Our%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/zZxncdkdWJ)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Welcome to the official public code repository for CodersPlanetHQ! This repository houses a variety of open-source projects and code snippets developed by our talented community members at [discord.gg/CodersPlanet](https://discord.gg/CodersPlanet).
+> Welcome to  **CodersPlanetHQ** — where creativity meets code.
+
+---
 
 ## About CodersPlanet
 
-CodersPlanet is a vibrant community of developers, programmers, and tech enthusiasts. We collaborate on exciting projects, share knowledge, and support each other's growth.  Join our Discord server to connect with fellow coders, participate in discussions, and contribute to our open-source initiatives.
+**CodersPlanet** is an open and collaborative community of developers, makers, and tech enthusiasts. Whether you're shipping apps, designing tools, writing snippets, or just exploring — we thrive on innovation and teamwork.
 
-## What You'll Find Here
+Connect with like-minded devs, join collabs, and contribute to something bigger. All are welcome.
 
-This repository contains a diverse collection of code, including:
+---
 
-*   **Projects:** Complete applications and tools developed by CodersPlanet members.
-*   **Snippets:** Useful code snippets and examples for various programming languages and technologies.
-*   **Libraries:** Reusable code libraries to simplify development tasks.
-*   **Examples:** Demonstrations of specific concepts and techniques.
+## What You'll Find
+
+- `Projects` — Bots, apps, tools, and real-world software
+- `Snippets` — Handy examples and functional fragments
+- `Libraries` — Reusable codebases, modules, and packages
+- `Starters` — Boilerplates to fast-track your builds
+
+---
+
+## Meet the Team
+
+| Member   | Position  | Discord | GitHub |
+|----------|-----------|---------|--------|
+| ![bre4d77](https://lanyard.cnrad.dev/api/931059762173464597?animated=true&theme=dark&borderRadius=25px&idleMessage=Thick%20Thighs%20Pretty%20eyes) | Developer | [@bre4d77](https://discord.com/users/931059762173464597) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bre4d77&show_icons=true&theme=github_dark)](https://github.com/bre4d77) |
+![mopifyz](https://lanyard.cnrad.dev/api/1208528923273601149?animated=true&theme=dark&borderRadius=25px&idleMessage=Thick%20Thighs%20Pretty%20eyes) | Developer | [@Mopifyz](https://discord.com/users/1208528923273601149) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mopifyz&show_icons=true&theme=github_dark)](https://github.com/Mopifyz) |
+![izzy_6.9](https://lanyard.cnrad.dev/api/1077872684781805569?animated=true&theme=dark&borderRadius=25px&idleMessage=Thick%20Thighs%20Pretty%20eyes) | Developer | [@izzy_6.9](https://discord.com/users/1077872684781805569) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzzyTheBuilder&show_icons=true&theme=github_dark)](https://github.com/IzzyTheBuilder) |
+
+> Want to be featured here? Join the dev squad on [Discord](https://discord.gg/zZxncdkdWJ) and start contributing!
+
+---
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This organization and its repositories are licensed under the [MIT License](LICENSE), unless otherwise noted.
+
+---
 
 ## Connect With Us
 
-*   **Discord:** [discord.gg/CodersPlanet](https://discord.gg/CodersPlanet)
-*   **YouTube:** [https://www.youtube.com/@CodersPlanet0](https://www.youtube.com/@CodersPlanet0)
+- [Discord](https://discord.gg/zZxncdkdWJ)
+- [YouTube](https://www.youtube.com/@CodersPlanet0)
 
-Thank you for visiting CodersPlanetHQ! We hope you find our code useful and inspiring.
+> Keep learning. Keep shipping. Keep exploring.
+
+— *CodersPlanetHQ Team*
