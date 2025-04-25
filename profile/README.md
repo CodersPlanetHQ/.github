@@ -1,52 +1,61 @@
-# CodersPlanetHQ Public Codes Repository 
 
-[![Discord](https://img.shields.io/discord/1010869461059911681?label=Join%20Our%20Discord&logo=discord&style=for-the-badge)](https://discord.gg/zZxncdkdWJ)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)]
+[![Discord](https://img.shields.io/discord/1010869461059911681?label=Join%20Our%20Discord&logo=discord&style=for-the-badge)]
+[![GitHub stars](https://img.shields.io/github/stars/CodersPlanetHQ/Public-Codes?style=for-the-badge)]
+[![GitHub forks](https://img.shields.io/github/forks/CodersPlanetHQ/Public-Codes?style=for-the-badge)]
 
-> Welcome to  **CodersPlanetHQ** — where creativity meets code.
+![CodersPlanetHQ Banner](./Banner.gif)
+
+> **CodersPlanetHQ** — where creativity meets code.
+
+---
+
+## Table of Contents
+
+- [About CodersPlanet](#about-codersplane)  
+- [Services](#services)  
+- [Our Team](#our-team)  
+- [License](#license)  
+- [Connect With Us](#connect-with-us)  
 
 ---
 
 ## About CodersPlanet
 
-**CodersPlanet** is an open and collaborative community of developers, makers, and tech enthusiasts. Whether you're shipping apps, designing tools, writing snippets, or just exploring — we thrive on innovation and teamwork.
-
-Connect with like-minded devs, join collabs, and contribute to something bigger. All are welcome.
+CodersPlanet is an open, collaborative community of developers, makers, and tech enthusiasts. From full-stack apps to handy snippets and boilerplates, we thrive on innovation and teamwork.
 
 ---
 
-## What You'll Find
+## Services
 
-- `Projects` — Bots, apps, tools, and real-world software
-- `Snippets` — Handy examples and functional fragments
-- `Libraries` — Reusable codebases, modules, and packages
-- `Starters` — Boilerplates to fast-track your builds
+- **Projects**: Full applications, bots, and tools for real-world use.  
+- **Snippets**: Bite-sized examples and functional code fragments.  
+- **Libraries**: Robust, reusable modules and packages.  
+- **Starters**: Boilerplates and templates to kickstart your builds.
 
 ---
 
-## Meet the Team
+## Our Team
 
-| Member   | Position  | Discord | GitHub |
-|----------|-----------|---------|--------|
-| ![bre4d77](https://lanyard.cnrad.dev/api/931059762173464597?animated=true&theme=dark&borderRadius=25px&idleMessage=Thick%20Thighs%20Pretty%20eyes) | Developer | [@bre4d77](https://discord.com/users/931059762173464597) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bre4d77&show_icons=true&theme=github_dark)](https://github.com/bre4d77) |
-![mopifyz](https://lanyard.cnrad.dev/api/1208528923273601149?animated=true&theme=dark&borderRadius=25px&idleMessage=Hello!) | Developer | [@Mopifyz](https://discord.com/users/1208528923273601149) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TrivCodez&show_icons=true&theme=github_dark)](https://github.com/TrivCodez) |
-![izzy_6.9](https://lanyard.cnrad.dev/api/1077872684781805569?animated=true&theme=dark&borderRadius=25px&idleMessage=Hello!) | Developer | [@izzy_6.9](https://discord.com/users/1077872684781805569) | [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IzzyTheBuilder&show_icons=true&theme=github_dark)](https://github.com/IzzyTheBuilder) |
-
-> Want to be featured here? Join the dev squad on [Discord](https://discord.gg/zZxncdkdWJ) and start contributing!
+| Member                                                                                                                                      | Role       | Profile                                                                                                           |
+|---------------------------------------------------------------------------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------|
+| <img src="https://lanyard.cnrad.dev/api/931059762173464597?theme=dark&borderRadius=25px" width="60"/>  | Developer  | [![bre4d77 GitHub](https://github-readme-stats.vercel.app/api?username=bre4d77&show_icons=true)](https://github.com/bre4d77) |
+| <img src="https://lanyard.cnrad.dev/api/1208528923273601149?theme=dark&borderRadius=25px" width="60"/> | Developer  | [![TrivCodez GitHub](https://github-readme-stats.vercel.app/api?username=TrivCodez&show_icons=true)](https://github.com/TrivCodez) |
+| <img src="https://lanyard.cnrad.dev/api/1077872684781805569?theme=dark&borderRadius=25px" width="60"/>   | Developer  | [![IzzyTheBuilder GitHub](https://github-readme-stats.vercel.app/api?username=IzzyTheBuilder&show_icons=true)](https://github.com/IzzyTheBuilder) |
 
 ---
 
 ## License
 
-This organization and its repositories are licensed under the [MIT License](LICENSE), unless otherwise noted.
+Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
 ## Connect With Us
 
-- [Discord](https://discord.gg/zZxncdkdWJ)
+- [Discord](https://discord.gg/zZxncdkdWJ)  
 - [YouTube](https://www.youtube.com/@CodersPlanet0)
 
-> Keep learning. Keep shipping. Keep exploring.
+> Keep learning. Keep shipping. Keep exploring.  
+> — *CodersPlanetHQ Team*
 
-— *CodersPlanetHQ Team*
